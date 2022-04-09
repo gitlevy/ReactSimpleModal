@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Simple Modal in React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Online Preview : https://jovial-eclair-d8cb2c.netlify.app/
+
+##
 
 ## Available Scripts
 
